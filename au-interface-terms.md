@@ -1,6 +1,6 @@
 # Interface Terms
 
-`Purpose` This template is for the creation of a set of terms and conditions governing access to a website or a mobile app.
+`Purpose` This template is for the creation of a set of terms and conditions to use a website or a mobile app.
 
 `Party 1 Name` Contractor
 
@@ -10,7 +10,7 @@
 
 ## Agreement
 
-This document describes an agreement between the Contractor and the Customer to use a website or mobile application. By installing or using the Service, the Customer agrees to follow the terms of this document.
+This document describes an agreement between the service provider and the customer to use a website or mobile device app. By installing or using the Service, the customer agrees to follow the terms of this document.
 
 ### Customer creates the Agreement by using the Service.
 
@@ -63,7 +63,7 @@ https://github.com/CodePact/au-components/blob/widgets/cancel_convenience.md
 
 ## Purchases and payments
 
-If your Service allows or requires the Customer to make purchases from you or make payments to you, you should specify the details of how these purchases or payments can take place. If your Service does not involve the Customer making purchases from you, or payments to you, feel free to delete this clause entirely.
+If your Service allows or requires the customer to make purchases from you or make payments to you, you should specify the details of how these purchases or payments can take place. If your Service does not involve the customer making purchases from you, or payments to you, feel free to delete this clause entirely.
 
 ### Purchases T&Cs
 
@@ -85,7 +85,7 @@ https://github.com/CodePact/au-components/blob/widgets/ip_protection.md
 
 ## Unnaceptable Activity
 
-If your Service allows your Customer to post content to the Service, or to communicate with other users of the service, it's a good idea to be clear that there are limits to what kind of content is acceptable.
+If your Service allows your customer to post content to the Service, or to communicate with other users of the service, it's a good idea to be clear that there are limits to what kind of content is acceptable.
 
 ### Customer agrees to use the service in an acceptable manner
 
@@ -99,7 +99,7 @@ PATXXX - this list should probably be a widget.
 
 ## Warranties
 
-Your service may provide information to the Customer. This clause makes it clear that you can not absolutely garuntee the accuracy of this information.
+Your service may provide information to the customer. This clause makes it clear that you can not absolutely garuntee the accuracy of this information.
 
 ### No Warrenty
 
@@ -124,7 +124,7 @@ PATXXX - I rolled the posted content provision and the "not responsible for link
 Responsibility for posted content lies with the Customer, not the Contractor. Where Contractor has posted links to third party sites, Contractor is not responsible for the content on those sites.
 
 
-## Two sided market 
+## Two sided market
 
 If your service facilitates commercial interaction between other parties (e.g. an auction site), you may wish to specify the level of your obligations to settle disputes between these parties. If your Service does not facilitate commercial interaction between other parties, feel free to delete this clause entirely.
 
