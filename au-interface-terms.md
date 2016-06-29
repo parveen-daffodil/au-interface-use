@@ -10,7 +10,7 @@
 
 ## Agreement
 
-This document describes an agreement between the service provider and the customer to use a website or mobile device app. By installing or using the Service, the customer agrees to follow the terms of this document.
+This document describes an agreement between a service provider and a user to use a website or mobile device app. By installing or using a service, the user agrees to follow the terms of this document.
 
 ### Customer creates the Agreement by using the Service.
 
