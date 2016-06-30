@@ -33,7 +33,7 @@ Customer must be 18 years old or over to use of the Service, unless:
 
 Customer's parent or legal guardian agrees that they will supervise Customer's use of the Service.
 
-## Digitial accounts
+## Digital accounts
 
 https://github.com/CodePact/au-components/blob/widgets/digital_accounts.md
 
@@ -61,7 +61,7 @@ PATXXX - This is the big drafting element for this document. We have a payment m
 
 - Terms of sale
 - Payment methods
-- puchasing garuntees
+- purchasing garuntees
 - Deliveries of products
 - Cancellation of Orders
 - Returns and Exchanges
