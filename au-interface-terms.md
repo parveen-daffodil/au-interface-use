@@ -56,13 +56,9 @@ https://github.com/CodePact/au-components/blob/widgets/cancel_convenience.md
 
 ## Purchases and payments
 
-If your Service sells products to people, it's obviously a good idea to
-
-allows or requires the customer to make purchases from you or make payments to you, you should specify the details of how these purchases or payments can take place. If your Service does not involve the customer making purchases from you, or payments to you, feel free to delete this clause entirely.
+When a provider sells products as part of providing a Service (online shopping for example), it's obviously a good idea for everyone to be clear on the terms of the product sale.  This applies to goods (physical products) and intangible products (like digital music) etc.
 
 ### Purchases T&Cs
-
-PATXXX - This is the big drafting element for this document. We have a payment methods and payment calculation module. But they're not really designed for this. Realistically, this should probably be several clauses, each small enough to be split into a module. This is a chunk we should talk about I think, because it could cover retail situations we haven't really hit yet.
 
 - Terms of sale
 - Payment methods
