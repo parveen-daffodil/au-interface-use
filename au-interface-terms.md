@@ -37,13 +37,18 @@ Customer's parent or legal guardian agrees that they will supervise Customer's u
 
 https://github.com/CodePact/au-components/blob/widgets/digital_accounts.md
 
+## Two sided market
+
+If the service facilitates commercial interaction between people (e.g. an auction site like eBay), it's a good idea to specify what the involvement of the service provider is. If your Service does not facilitate commercial interaction between other parties, feel free to delete this topic entirely.  
+
+### Contractor is not involved with transactions and agreements between users of the Services.
+
+- Contractor facilitates commercial transactions between users of the Service, but has no relationship at law with the transactions between users of the Service.
+- Customer agrees to make a good faith effort to resolve conflicts between itself and any other user of the Service without the intervention of the Contractor.
+
 ## Privacy
 
 https://github.com/CodePact/au-components/blob/widgets/privacy.md
-
-## Agreement changes
-
-https://github.com/CodePact/au-components/blob/widgets/agreement_changes.md
 
 ## Service cancellation
 
@@ -68,6 +73,10 @@ PATXXX - This is the big drafting element for this document. We have a payment m
 - Try to generically cover in app purchases here too.
 - NOT TRYING TO CUT OUT STATUTORY RIGHTS UNDER CONSUMER LAW I TOTALLY PROMISE GUYS
 - Above element covered by lawpatch boilerplate, right?
+
+## Agreement changes
+
+https://github.com/CodePact/au-components/blob/widgets/agreement_changes.md
 
 ## Product returns
 
@@ -97,11 +106,6 @@ https://github.com/CodePact/au-components/blob/widgets/posted_content.md
 
 https://github.com/CodePact/au-components/blob/widgets/information_reliance.md
 
-## Two sided market
-
-If your service facilitates commercial interaction between other parties (e.g. an auction site like eBay), you may wish to specify the level of your obligations to settle disputes between these parties. If your Service does not facilitate commercial interaction between other parties, feel free to delete this clause entirely.
-
-Contractor facilitates commercial interaction between different Customers, but has no connection to the services exchanged between Customers. Customers have an obligation to make a good faith effort to resolve conflicts between themselves and other Customers without the intervention of the Contractor.
 
 ## Boilerplate
 
