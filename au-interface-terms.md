@@ -39,7 +39,7 @@ https://github.com/CodePact/au-components/blob/widgets/digital_accounts.md
 
 ## Two sided market
 
-If the service facilitates commercial interaction between people (e.g. an auction site like eBay), it's a good idea to specify what the involvement of the service provider is. If your Service does not facilitate commercial interaction between other parties, feel free to delete this topic entirely.  
+If the service facilitates commercial interaction between people (e.g. an auction site like eBay), it's a good idea to specify what the involvement of the service provider is. If your Service does not facilitate commercial interaction between other parties, feel free to delete this topic entirely.
 
 ### Contractor is not involved with transactions and agreements between users of the Services.
 
@@ -54,21 +54,25 @@ https://github.com/CodePact/au-components/blob/widgets/privacy.md
 
 https://github.com/CodePact/au-components/blob/widgets/cancel_convenience.md
 
-## Purchases and payments
+## Product purchases
 
 When a provider sells products as part of providing a Service (online shopping for example), it's obviously a good idea for everyone to be clear on the terms of the product sale.  This applies to goods (physical products) and intangible products (like digital music) etc.
 
-### Purchases T&Cs
+### No refunds for Product purchases.  
 
-- Terms of sale
-- Payment methods
-- purchasing garuntees
-- Deliveries of products
-- Cancellation of Orders
-- Returns and Exchanges
-- Try to generically cover in app purchases here too.
-- NOT TRYING TO CUT OUT STATUTORY RIGHTS UNDER CONSUMER LAW I TOTALLY PROMISE GUYS
-- Above element covered by lawpatch boilerplate, right?
+Customer agrees:
+
+- to pay Contractor the amounts listed by the Contractor in exchange for the Products;
+- to pay Contractor for the Products using the payment method specified by the Customer on the Services; and
+- that, to the fullest extent available under the law, refunds are not allowed.
+
+## Product delivery
+
+Customer agrees that:
+
+- Contractor may decline an order for a Product at its discretion and will provide a full refund for any declined order;
+- the Products are the responsibility of the Contractor when they reach the delivery address; and
+- that the Products remain the property of Contractor until the Customer has paid the Contractor for the Products in full.
 
 ## Agreement changes
 
