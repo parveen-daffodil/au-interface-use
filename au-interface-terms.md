@@ -83,25 +83,7 @@ https://github.com/CodePact/au-components/blob/widgets/ip_protection.md
 
 ## Acceptable content
 
-It's a good idea to be clear about what the a Customer can't use the Service for.  Usually, the service provider will object to the use of the Service:
-
-- in assosciation with certain kinds of content; or
-- to deal with third parties in certain undesiarable ways.
-
-### Customer agrees not to use the Service for the listed activities.
-
-Customer agrees not to use the Service to communicate or store any information:
-
-- that could reasonably be considered racist or hate speech;
-- that infringes the intellecutal property rights of a third party;
-- to harrass any third party; 
-- that is pornographic in nature;
-- that could reasonably be categorised as "malware"; and
-- for any unlawful purpose.
-
-## Customer agrees to the Acceptable Use Policy.
-
-Customer agrees only to use the Service in accordance with the Acceptable Use Policy at {{acceptable use policy}}.
+https://github.com/CodePact/au-components/blob/widgets/acceptable_content.md
 
 ## Warranties
 
