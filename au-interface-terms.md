@@ -51,7 +51,7 @@ https://github.com/CodePact/au-components/blob/widgets/cancel_convenience.md
 
 ## Purchases and payments
 
-If your Service sells products to people, it's obviously a good idea to 
+If your Service sells products to people, it's obviously a good idea to
 
 allows or requires the customer to make purchases from you or make payments to you, you should specify the details of how these purchases or payments can take place. If your Service does not involve the customer making purchases from you, or payments to you, feel free to delete this clause entirely.
 
@@ -81,17 +81,6 @@ https://github.com/CodePact/au-components/blob/widgets/ip_protection.md
 
 https://github.com/CodePact/au-components/blob/widgets/acceptable_content.md
 
-## Warranties
-
-Your service may provide information to the customer. This clause makes it clear that you can not absolutely garuntee the accuracy of this information.
-
-### No Warrenty
-
-PATXXX
-
-While all due care has been taken, information from the Service is not warrentied to be either exhaustive or accurate.
-
-
 ## Indemnity
 
 https://github.com/CodePact/au-components/blob/widgets/indemnity.md
@@ -100,23 +89,19 @@ https://github.com/CodePact/au-components/blob/widgets/indemnity.md
 
 https://github.com/CodePact/au-components/blob/widgets/limitation.md
 
-## Posted Content Provision
+## Posted information
 
-PATXXX - I rolled the posted content provision and the "not responsible for links to third party sites" together here. They seem to serve a similar purpose. We probably also want an option where Customer grants Contractor a license to all the content they post to the service. Ugh.
+https://github.com/CodePact/au-components/blob/widgets/posted_content.md
 
-### Contractor does not accept responsibility for user content
-Responsibility for posted content lies with the Customer, not the Contractor. Where Contractor has posted links to third party sites, Contractor is not responsible for the content on those sites.
+## Information and reliance
 
+https://github.com/CodePact/au-components/blob/widgets/information_reliance.md
 
 ## Two sided market
 
-If your service facilitates commercial interaction between other parties (e.g. an auction site), you may wish to specify the level of your obligations to settle disputes between these parties. If your Service does not facilitate commercial interaction between other parties, feel free to delete this clause entirely.
+If your service facilitates commercial interaction between other parties (e.g. an auction site like eBay), you may wish to specify the level of your obligations to settle disputes between these parties. If your Service does not facilitate commercial interaction between other parties, feel free to delete this clause entirely.
 
-### Contractor has no obligation to resolve disputes
-
-PATXXX
-
- Contractor facilitates commercial interaction between different Customers, but has no connection to the services exchanged between Customers. Customers have an obligation to make a good faith effort to resolve conflicts between themselves and other Customers without the intervention of the Contractor.
+Contractor facilitates commercial interaction between different Customers, but has no connection to the services exchanged between Customers. Customers have an obligation to make a good faith effort to resolve conflicts between themselves and other Customers without the intervention of the Contractor.
 
 ## Boilerplate
 
