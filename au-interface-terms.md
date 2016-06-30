@@ -35,17 +35,7 @@ Customer's parent or legal guardian agrees that they will supervise Customer's u
 
 ## Digitial accounts
 
-The Service may require the creation of a digital account in order to use some or all of it's features.  It's important that the Customer understands the responsibilities that come with setting up an account.
-
-You can delete this topic if the Service doesn't have a mechanism for creating accounts.
-
-### Accurate account obligations
-
-- Customer agrees to:
-  - provide accurate and complete information to the Contractor to establish the Account;
-  - keep details used to access the Account secure and private; and
-  - notify Contractor in the event that the Account's security is compromised in any way.
-- Customer agrees that it will be responsible for the Account's activity, even if the Account is used in an unauthorised way by any other person.
+https://github.com/CodePact/au-components/blob/widgets/digital_accounts.md
 
 ## Privacy
 
@@ -65,7 +55,9 @@ https://github.com/CodePact/au-components/blob/widgets/cancel_convenience.md
 
 ## Purchases and payments
 
-If your Service allows or requires the customer to make purchases from you or make payments to you, you should specify the details of how these purchases or payments can take place. If your Service does not involve the customer making purchases from you, or payments to you, feel free to delete this clause entirely.
+If your Service sells products to people, it's obviously a good idea to 
+
+allows or requires the customer to make purchases from you or make payments to you, you should specify the details of how these purchases or payments can take place. If your Service does not involve the customer making purchases from you, or payments to you, feel free to delete this clause entirely.
 
 ### Purchases T&Cs
 
@@ -81,23 +73,35 @@ PATXXX - This is the big drafting element for this document. We have a payment m
 - NOT TRYING TO CUT OUT STATUTORY RIGHTS UNDER CONSUMER LAW I TOTALLY PROMISE GUYS
 - Above element covered by lawpatch boilerplate, right?
 
+## Product returns
+
+Put in product returns.
+
 ## Intellectual Property Protection
 
 https://github.com/CodePact/au-components/blob/widgets/ip_protection.md
 
-## Unnaceptable Activity
+## Acceptable content
 
-If your Service allows your customer to post content to the Service, or to communicate with other users of the service, it's a good idea to be clear that there are limits to what kind of content is acceptable.
+It's a good idea to be clear about what the a Customer can't use the Service for.  Usually, the service provider will object to the use of the Service:
 
-### Customer agrees to use the service in an acceptable manner
+- in assosciation with certain kinds of content; or
+- to deal with third parties in certain undesiarable ways.
 
-Customer agrees that use of the Service is limited to what Contractor deems to be acceptable. Customer agrees not to use the Service in any way that is unnaceptable to the contractor, including:
+### Customer agrees not to use the Service for the listed activities.
 
-PATXXX - this list should probably be a widget.
+Customer agrees not to use the Service to communicate or store any information:
 
-- The posting of racist content, or hate speech
-- The posting of computer viruses, or trojans
-- Anything illegal
+- that could reasonably be considered racist or hate speech;
+- that infringes the intellecutal property rights of a third party;
+- to harrass any third party; 
+- that is pornographic in nature;
+- that could reasonably be categorised as "malware"; and
+- for any unlawful purpose.
+
+## Customer agrees to the Acceptable Use Policy.
+
+Customer agrees only to use the Service in accordance with the Acceptable Use Policy at {{acceptable use policy}}.
 
 ## Warranties
 
