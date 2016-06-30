@@ -39,11 +39,7 @@ https://github.com/CodePact/au-components/blob/widgets/digital_accounts.md
 
 ## Privacy
 
-You might need to have a privacy policy as a result of privacy law.  A privacy policy is a published document that informs people about how your organisation uses information that can be used to identify people.  This information is known as "personal information".
-
-### Privacy policy
-
-Contractor will store and use the Personal Information of the Customer in accordance with the Contractor's Privacy Policy.
+https://github.com/CodePact/au-components/blob/widgets/privacy.md
 
 ## Agreement changes
 
