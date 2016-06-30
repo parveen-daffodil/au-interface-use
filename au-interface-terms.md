@@ -10,7 +10,7 @@
 
 ## Agreement
 
-This document describes an agreement between a service provider and a user to use a website or mobile device app. By installing or using a service, the user agrees to follow the terms of this document.
+This document describes an agreement between a website / app provider and its user.
 
 ### Customer creates the Agreement by using the Service.
 
@@ -18,46 +18,48 @@ Customer agrees to the terms of the Agreement by using the Service.
 
 ## Age Restrictions
 
-You may wish to have age restrictions to limit the access of minors to your Service. If you do not wish to have any sort of age restrictions at all, feel free to delete this clause entirely.
+You may wish to have age restrictions to limit the access of non-adults to the service. If you do not wish to have any sort of age restrictions at all, just delete this topic.
 
-PATXXX
+### Only adults can use the Service.
 
-### Adults Only
+Customer promises that he or she is over 18 years of age by using the Service.
 
-Use of the Service is limited to individual above the age of 18. By using the Service, Customer promises that they are over 18 years of age.
+### Non adults above a certain age can use the Service with supervision.
 
-### Minimum age with parental permission
+Customer must be 18 years old or over to use of the Service, unless:
 
-Individuals above the age of {{minimum age}} but below the age of 18 may only use the service with the permission and supervision of a parent or legal guardian. By using the Service, Customer's parent or legal guardian agrees that they will supervise Customer's use of the Service.
+- Customer is between the ages of {{minimum age}} and 18 years old; and
+- uses the Service with the permission and supervision of a guardian.
 
-## Account
+Customer's parent or legal guardian agrees that they will supervise Customer's use of the Service.
 
-If your Service requires the creation of an account in order to use some or all of it's features, you may want your Customers to have an obligation to provide accurate information, and to keep their account secure. If your service does not have the ability to create accounts, feel free to delete this clause entirely.
+## Digitial accounts
+
+The Service may require the creation of a digital account in order to use some or all of it's features.  It's important that the Customer understands the responsibilities that come with setting up an account.
+
+You can delete this topic if the Service doesn't have a mechanism for creating accounts.
 
 ### Accurate account obligations
 
-PATXXX
-
-- Customer agrees to provide accurate account information to Contractor
-- Customer agrees to keep the login details of their account secure and private.
-- Customer agrees to notify Contractor if account details are comprimised by any unauthorised persons.
+- Customer agrees to:
+  - provide accurate and complete information to the Contractor to establish the Account;
+  - keep details used to access the Account secure and private; and
+  - notify Contractor in the event that the Account's security is compromised in any way.
+- Customer agrees that it will be responsible for the Account's activity, even if the Account is used in an unauthorised way by any other person.
 
 ## Privacy
 
-If you're operating in a jurusdiction with digital privacy laws, you should have a publicly available privacy policy.
+You might need to have a privacy policy as a result of privacy law.  A privacy policy is a published document that informs people about how your organisation uses information that can be used to identify people.  This information is known as "personal information".
 
 ### Privacy policy
 
-PATXXX
-
-Contractor will store and use the personal information of the Customer in accordance with the Contractor's publicly posted privacy policy.
+Contractor will store and use the Personal Information of the Customer in accordance with the Contractor's Privacy Policy.
 
 ## Agreement changes
 
 https://github.com/CodePact/au-components/blob/widgets/agreement_changes.md
 
-
-## Cancellation of service
+## Service cancellation
 
 https://github.com/CodePact/au-components/blob/widgets/cancel_convenience.md
 
