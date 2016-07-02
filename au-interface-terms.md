@@ -106,7 +106,6 @@ https://github.com/CodePact/au-components/blob/widgets/posted_content.md
 
 https://github.com/CodePact/au-components/blob/widgets/information_reliance.md
 
-
 ## Boilerplate
 
 https://github.com/CodePact/au-components/blob/widgets/end_agreement.md
@@ -118,4 +117,3 @@ https://github.com/pjbrow/recursive_parser/blob/master/library_definitions.md
 ## Widgets
 
 https://github.com/pjbrow/recursive_parser/blob/master/library_widgets.json
-
