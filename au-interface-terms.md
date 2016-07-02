@@ -2,9 +2,9 @@
 
 `Purpose` This template is for the creation of a set of terms and conditions to use a website or a mobile app.
 
-`Party 1 Name` Contractor
+`Party 1 Name` Provider
 
-`Party 2 Name` Customer
+`Party 2 Name` User
 
 `Jurisdiction` Australia
 
@@ -12,9 +12,9 @@
 
 This document describes an agreement between a website / app provider and its user.
 
-### Customer creates the Agreement by using the Service.
+### User creates the Agreement by using the Service.
 
-Customer agrees to the terms of the Agreement by using the Service.
+User agrees to the terms of the Agreement by using the Service.
 
 ## Age Restrictions
 
@@ -22,16 +22,16 @@ You may wish to have age restrictions to limit the access of non-adults to the s
 
 ### Only adults can use the Service.
 
-Customer promises that he or she is over 18 years of age by using the Service.
+User promises that he or she is over 18 years of age by using the Service.
 
 ### Non adults above a certain age can use the Service with supervision.
 
-Customer must be 18 years old or over to use of the Service, unless:
+User must be 18 years old or over to use of the Service, unless:
 
-- Customer is between the ages of {{minimum age}} and 18 years old; and
+- User is between the ages of {{minimum age}} and 18 years old; and
 - uses the Service with the permission and supervision of a guardian.
 
-Customer's parent or legal guardian agrees that they will supervise Customer's use of the Service.
+User's parent or legal guardian agrees that they will supervise User's use of the Service.
 
 ## Digital accounts
 
@@ -41,10 +41,10 @@ https://github.com/CodePact/au-components/blob/widgets/digital_accounts.md
 
 If the service facilitates commercial interaction between people (e.g. an auction site like eBay), it's a good idea to specify what the involvement of the service provider is. If your Service does not facilitate commercial interaction between other parties, feel free to delete this topic entirely.
 
-### Contractor is not involved with transactions and agreements between users of the Services.
+### Provider is not involved with transactions and agreements between users of the Services.
 
-- Contractor facilitates commercial transactions between users of the Service, but has no relationship at law with the transactions between users of the Service.
-- Customer agrees to make a good faith effort to resolve conflicts between itself and any other user of the Service without the intervention of the Contractor.
+- Provider facilitates commercial transactions between users of the Service, but has no relationship at law with the transactions between users of the Service.
+- User agrees to make a good faith effort to resolve conflicts between itself and any other user of the Service without the intervention of the Provider.
 
 ## Privacy
 
@@ -58,21 +58,21 @@ https://github.com/CodePact/au-components/blob/widgets/cancel_convenience.md
 
 When a provider sells products as part of providing a Service (online shopping for example), it's obviously a good idea for everyone to be clear on the terms of the product sale.  This applies to goods (physical products) and intangible products (like digital music) etc.
 
-### No refunds for Product purchases.  
+### No refunds for Product purchases.
 
-Customer agrees:
+User agrees:
 
-- to pay Contractor the amounts listed by the Contractor in exchange for the Products;
-- to pay Contractor for the Products using the payment method specified by the Customer on the Services; and
+- to pay Provider the amounts listed by the Provider in exchange for the Products;
+- to pay Provider for the Products using the payment method specified by the User on the Services; and
 - that, to the fullest extent available under the law, refunds are not allowed.
 
 ## Product delivery
 
-Customer agrees that:
+User agrees that:
 
-- Contractor may decline an order for a Product at its discretion and will provide a full refund for any declined order;
-- the Products are the responsibility of the Contractor when they reach the delivery address; and
-- that the Products remain the property of Contractor until the Customer has paid the Contractor for the Products in full.
+- Provider may decline an order for a Product at its discretion and will provide a full refund for any declined order;
+- the Products are the responsibility of the Provider when they reach the delivery address; and
+- that the Products remain the property of Provider until the User has paid the Provider for the Products in full.
 
 ## Agreement changes
 
