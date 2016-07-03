@@ -114,6 +114,10 @@ https://github.com/CodePact/au-components/blob/widgets/end_agreement.md
 
 https://github.com/pjbrow/recursive_parser/blob/master/library_definitions.md
 
+## Variables
+
+https://github.com/pjbrow/recursive_parser/blob/master/library_variables.md
+
 ## Widgets
 
 https://github.com/pjbrow/recursive_parser/blob/master/library_widgets.json
