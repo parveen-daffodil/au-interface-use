@@ -78,17 +78,13 @@ User agrees that:
 
 https://github.com/CodePact/au-components/blob/widgets/agreement_changes.md
 
-## Product returns
-
-Put in product returns.
-
 ## Intellectual Property Protection
 
 https://github.com/CodePact/au-components/blob/widgets/ip_protection.md
 
 ## Acceptable content
 
-https://github.com/CodePact/au-components/blob/widgets/acceptable_content.md
+https://github.com/CodePact/au-components/blob/widgets/acceptable_use.md
 
 ## Indemnity
 
@@ -108,7 +104,7 @@ https://github.com/CodePact/au-components/blob/widgets/information_reliance.md
 
 ## Boilerplate
 
-https://github.com/CodePact/au-components/blob/widgets/end_agreement.md
+https://github.com/CodePact/au-components/blob/widgets/necessary_bureaucracy.md
 
 ## Definitions
 
