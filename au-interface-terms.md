@@ -71,7 +71,7 @@ User agrees:
 User agrees that:
 
 - Provider may decline an order for a Product at its discretion and will provide a full refund for any declined order;
-- the Products are the responsibility of the Provider when they reach the delivery address; and
+- the Products are the responsibility of the User when they reach the delivery address; and
 - that the Products remain the property of Provider until the User has paid the Provider for the Products in full.
 
 ## Agreement changes
