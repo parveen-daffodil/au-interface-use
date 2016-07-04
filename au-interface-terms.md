@@ -110,6 +110,8 @@ https://github.com/CodePact/au-components/blob/widgets/necessary_bureaucracy.md
 
 https://github.com/pjbrow/recursive_parser/blob/master/interface-terms-defs.md
 
+https://github.com/pjbrow/recursive_parser/blob/master/library_definitions.md
+
 ## Variables
 
 https://github.com/pjbrow/recursive_parser/blob/master/library_variables.md
@@ -117,3 +119,5 @@ https://github.com/pjbrow/recursive_parser/blob/master/library_variables.md
 ## Widgets
 
 https://github.com/pjbrow/recursive_parser/blob/master/interface-terms-widgets.json
+
+https://github.com/pjbrow/recursive_parser/blob/master/library_widgets.json
