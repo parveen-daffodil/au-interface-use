@@ -27,7 +27,6 @@ User promises that he or she is over 18 years of age by using the Service.
 ### Non adults above a certain age can use the Service with supervision.
 
 User must be 18 years old or over to use of the Service, unless:
-
 - User is between the ages of {{minimum age}} and 18 years old; and
 - uses the Service with the permission and supervision of a guardian.
 
@@ -61,7 +60,6 @@ When a provider sells products as part of providing a Service (online shopping f
 ### No refunds for Product purchases.
 
 User agrees:
-
 - to pay Provider the amounts listed by the Provider in exchange for the Products;
 - to pay Provider for the Products using the payment method specified by the User on the Services; and
 - that, to the fullest extent available under the law, refunds are not allowed.
@@ -69,7 +67,6 @@ User agrees:
 ## Product delivery
 
 User agrees that:
-
 - Provider may decline an order for a Product at its discretion and will provide a full refund for any declined order;
 - the Products are the responsibility of the User when they reach the delivery address; and
 - that the Products remain the property of Provider until the User has paid the Provider for the Products in full.
@@ -108,16 +105,16 @@ https://github.com/CodePact/au-components/blob/widgets/necessary_bureaucracy.md
 
 ## Definitions
 
-https://github.com/pjbrow/recursive_parser/blob/master/interface-terms-defs.md
+https://github.com/pjbrow/au-defs-wdgts/blob/master/library_definitions.md
 
 https://github.com/pjbrow/au-defs-wdgts/blob/master/library_definitions.md
 
 ## Variables
 
-https://github.com/pjbrow/recursive_parser/blob/master/library_variables.md
+https://github.com/pjbrow/au-defs-wdgts/blob/master/library_variables.md
 
 ## Widgets
 
-https://github.com/pjbrow/recursive_parser/blob/master/interface-terms-widgets.json
+https://github.com/pjbrow/au-defs-wdgts/blob/master/interface-terms-widgets.json
 
 https://github.com/pjbrow/au-defs-wdgts/blob/master/library_widgets.json
