@@ -33,10 +33,6 @@ User must be 18 years old or over to use of the Service, unless:
 
 User's parent or legal guardian agrees that they will supervise User's use of the Service.
 
-## Digital accounts
-
-https://github.com/CodePact/au-components/blob/widgets/digital_accounts.md
-
 ## Two sided market
 
 If the service facilitates commercial interaction between people (e.g. an auction site like eBay), it's a good idea to specify what the involvement of the service provider is. If your Service does not facilitate commercial interaction between other parties, feel free to delete this topic entirely.
@@ -45,14 +41,6 @@ If the service facilitates commercial interaction between people (e.g. an auctio
 
 - Provider facilitates commercial transactions between users of the Service, but has no relationship at law with the transactions between users of the Service.
 - User agrees to make a good faith effort to resolve conflicts between itself and any other user of the Service without the intervention of the Provider.
-
-## Privacy
-
-https://github.com/CodePact/au-components/blob/widgets/privacy.md
-
-## Service cancellation
-
-https://github.com/CodePact/au-components/blob/widgets/cancel_convenience.md
 
 ## Product purchases
 
@@ -73,51 +61,3 @@ User agrees that:
 - Provider may decline an order for a Product at its discretion and will provide a full refund for any declined order;
 - the Products are the responsibility of the Provider when they reach the delivery address; and
 - that the Products remain the property of Provider until the User has paid the Provider for the Products in full.
-
-## Agreement changes
-
-https://github.com/CodePact/au-components/blob/widgets/agreement_changes.md
-
-## Intellectual Property Protection
-
-https://github.com/CodePact/au-components/blob/widgets/ip_protection.md
-
-## Acceptable content
-
-https://github.com/CodePact/au-components/blob/widgets/acceptable_use.md
-
-## Indemnity
-
-https://github.com/CodePact/au-components/blob/widgets/indemnity.md
-
-## Limitation of Liability
-
-https://github.com/CodePact/au-components/blob/widgets/limitation.md
-
-## Posted information
-
-https://github.com/CodePact/au-components/blob/widgets/posted_content.md
-
-## Information and reliance
-
-https://github.com/CodePact/au-components/blob/widgets/information_reliance.md
-
-## Boilerplate
-
-https://github.com/CodePact/au-components/blob/widgets/necessary_bureaucracy.md
-
-## Definitions
-
-https://github.com/pjbrow/recursive_parser/blob/master/interface-terms-defs.md
-
-https://github.com/pjbrow/recursive_parser/blob/master/library_definitions.md
-
-## Variables
-
-https://github.com/pjbrow/recursive_parser/blob/master/library_variables.md
-
-## Widgets
-
-https://github.com/pjbrow/recursive_parser/blob/master/interface-terms-widgets.json
-
-https://github.com/pjbrow/recursive_parser/blob/master/library_widgets.json
