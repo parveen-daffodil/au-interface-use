@@ -18,7 +18,7 @@ User agrees to the terms of the Agreement by using the Service.
 
 ## Age Restrictions
 
-You may wish to have age restrictions to limit the access of non-adults to the service. If you do not wish to have any sort of age restrictions at all, just delete this topic.
+You may want to limit children's access. If you don't want any age restrictions, just delete this topic.
 
 ### Only adults can use the Service.
 
@@ -27,7 +27,7 @@ User promises that he or she is over 18 years of age by using the Service.
 ### Non adults above a certain age can use the Service with supervision.
 
 User must be 18 years old or over to use of the Service, unless:
-- User is between the ages of {{minimum age}} and 18 years old; and
+- User is at least {{minimum age}} years old; and
 - uses the Service with the permission and supervision of a guardian.
 
 User's parent or legal guardian agrees that they will supervise User's use of the Service.
@@ -38,16 +38,20 @@ https://github.com/CodePact/au-components/blob/widgets/digital_accounts.md
 
 ## Two sided market
 
-If the service facilitates commercial interaction between people (e.g. an auction site like eBay), it's a good idea to specify what the involvement of the service provider is. If your Service does not facilitate commercial interaction between other parties, feel free to delete this topic entirely.
+If users do business with each other on the service (e.g. an auction site like eBay), it's good to be clear that deals are between the users only, without involving the service provider. If your Service is not a platform that allows users to do business with each other, feel free to delete this topic entirely.
 
 ### Provider is not involved with transactions and agreements between users of the Services.
 
-- Provider facilitates commercial transactions between users of the Service, but has no relationship at law with the transactions between users of the Service.
-- User agrees to make a good faith effort to resolve conflicts between itself and any other user of the Service without the intervention of the Provider.
+- {{party 1}} facilitates commercial transactions between users of the Service, but has no relationship at law with the transactions between users of the Service.
+- User agrees to make a good faith effort to resolve conflicts between itself and any other user of the Service without the intervention of {{party 1}}.
 
 ## Privacy
 
 https://github.com/CodePact/au-components/blob/widgets/privacy.md
+
+## Agreement length
+
+https://github.com/CodePact/au-components/blob/widgets/agreement_duration.md
 
 ## Service cancellation
 
@@ -59,17 +63,21 @@ When a provider sells products as part of providing a Service (online shopping f
 
 ### No refunds for Product purchases.
 
-User agrees:
-- to pay Provider the amounts listed by the Provider in exchange for the Products;
-- to pay Provider for the Products using the payment method specified by the User on the Services; and
-- that, to the fullest extent available under the law, refunds are not allowed.
+{{party 2}} agrees:
+- to pay {{party 1}} the amounts listed by {{party 1}} in exchange for the Products;
+- to pay {{party 1}} for the Products using the payment method specified by the User on the Services;
+- {{party 1}} may decline an order for a Product at its discretion and will provide a full refund for any declined order; and
+- otherwise {{refund policy}}.
 
 ## Product delivery
 
+If you deliver products, it's good to be clear when customers become responsible, and when they get ownership. If you don't deliver products, feel free to delete this topic.
+
+### Responsibility passes on delivery, ownership passes on payment.
+
 User agrees that:
-- Provider may decline an order for a Product at its discretion and will provide a full refund for any declined order;
-- the Products are the responsibility of the User when they reach the delivery address; and
-- that the Products remain the property of Provider until the User has paid the Provider for the Products in full.
+- the Products are the responsibility of {{party 2}} when they reach the delivery address; and
+- that the Products remain the property of {{party 1}} until {{party 2}} has paid {{party 1}} for the Products in full.
 
 ## Agreement changes
 
@@ -83,13 +91,13 @@ https://github.com/CodePact/au-components/blob/widgets/ip_protection.md
 
 https://github.com/CodePact/au-components/blob/widgets/acceptable_use.md
 
-## Indemnity
-
-https://github.com/CodePact/au-components/blob/widgets/indemnity.md
-
-## Limitation of Liability
+## Claim limits
 
 https://github.com/CodePact/au-components/blob/widgets/limitation.md
+
+## Covering costs
+
+https://github.com/CodePact/au-components/blob/widgets/indemnity.md
 
 ## Posted information
 
@@ -105,16 +113,16 @@ https://github.com/CodePact/au-components/blob/widgets/necessary_bureaucracy.md
 
 ## Definitions
 
-https://github.com/pjbrow/au-defs-wdgts/blob/master/interface-terms-defs.md
+https://github.com/CodePact/au-defs-wdgts/blob/master/interface-terms-defs.md
 
-https://github.com/pjbrow/au-defs-wdgts/blob/master/library_definitions.md
+https://github.com/CodePact/au-defs-wdgts/blob/master/library_definitions.md
 
 ## Variables
 
-https://github.com/pjbrow/au-defs-wdgts/blob/master/library_variables.md
+https://github.com/CodePact/au-defs-wdgts/blob/master/library_variables.md
 
 ## Widgets
 
-https://github.com/pjbrow/au-defs-wdgts/blob/master/interface-terms-widgets.json
+https://github.com/CodePact/au-defs-wdgts/blob/master/interface-terms-widgets.json
 
-https://github.com/pjbrow/au-defs-wdgts/blob/master/library_widgets.json
+https://github.com/CodePact/au-defs-wdgts/blob/master/library_widgets.json
