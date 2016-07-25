@@ -34,7 +34,7 @@ User's parent or legal guardian agrees that they will supervise User's use of th
 
 ## Digital accounts
 
-https://github.com/CodePact/au-components/blob/widgets/digital_accounts.md
+https://github.com/CodePact/au-components/blob/master/digital_accounts.md
 
 ## Two sided market
 
@@ -47,15 +47,15 @@ If users do business with each other on the service (e.g. an auction site like e
 
 ## Privacy
 
-https://github.com/CodePact/au-components/blob/widgets/privacy.md
+https://github.com/CodePact/au-components/blob/master/privacy.md
 
 ## Agreement length
 
-https://github.com/CodePact/au-components/blob/widgets/agreement_duration.md
+https://github.com/CodePact/au-components/blob/master/agreement_duration.md
 
 ## Service cancellation
 
-https://github.com/CodePact/au-components/blob/widgets/cancel_convenience.md
+https://github.com/CodePact/au-components/blob/master/cancel_convenience.md
 
 ## Product purchases
 
@@ -81,35 +81,35 @@ User agrees that:
 
 ## Agreement changes
 
-https://github.com/CodePact/au-components/blob/widgets/agreement_changes.md
+https://github.com/CodePact/au-components/blob/master/agreement_changes.md
 
 ## Intellectual Property Protection
 
-https://github.com/CodePact/au-components/blob/widgets/ip_protection.md
+https://github.com/CodePact/au-components/blob/master/ip_protection.md
 
 ## Acceptable content
 
-https://github.com/CodePact/au-components/blob/widgets/acceptable_use.md
+https://github.com/CodePact/au-components/blob/master/acceptable_use.md
 
 ## Claim limits
 
-https://github.com/CodePact/au-components/blob/widgets/limitation.md
+https://github.com/CodePact/au-components/blob/master/limitation.md
 
 ## Covering costs
 
-https://github.com/CodePact/au-components/blob/widgets/indemnity.md
+https://github.com/CodePact/au-components/blob/master/indemnity.md
 
 ## Posted information
 
-https://github.com/CodePact/au-components/blob/widgets/posted_content.md
+https://github.com/CodePact/au-components/blob/master/posted_content.md
 
 ## Information and reliance
 
-https://github.com/CodePact/au-components/blob/widgets/information_reliance.md
+https://github.com/CodePact/au-components/blob/master/information_reliance.md
 
 ## Boilerplate
 
-https://github.com/CodePact/au-components/blob/widgets/necessary_bureaucracy.md
+https://github.com/CodePact/au-components/blob/master/necessary_bureaucracy.md
 
 ## Definitions
 
