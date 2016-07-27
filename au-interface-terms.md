@@ -1,6 +1,6 @@
 # Interface Terms
 
-`Purpose` This template is for the creation of a set of terms and conditions to use a website or a mobile app.
+`Purpose` This document template creates terms and conditions to use a website or a mobile device app.
 
 `Party 1 Name` Provider
 
