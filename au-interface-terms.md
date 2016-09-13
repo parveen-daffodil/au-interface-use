@@ -14,13 +14,7 @@ This document describes an agreement between a website / app provider and its us
 
 ### User creates the Agreement by using the Service.
 
-User agrees to the terms of the Agreement by using the Service.
-
-## Access to Service
-
-### User access to the Service is on the terms of the Agreement.
-
-Provider will allow User to access and use the Service, subject to the terms of the Agreement.
+User agrees to the terms of the Agreement by using the Service. Provider will allow User to access and use the Service, subject to the terms of the Agreement.
 
 ## Age Restrictions
 
